@@ -1,2 +1,3 @@
-# software_carpentry_at_nist
-Document process for setting up a Software Carpentry workshop at NIST
+# software-carpentry-workshops
+Document process for setting up a [Software Carpentry workshop](http://software-carpentry.org/workshops) at [NIST](http://www.nist.gov)
+
